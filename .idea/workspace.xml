@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fa27b17-47d2-413b-acaa-d779bd7b8756" name="Default Changelist" comment="game1" />
+    <list default="true" id="4fa27b17-47d2-413b-acaa-d779bd7b8756" name="Default Changelist" comment="game1">
+      <change afterPath="$PROJECT_DIR$/python_practice/game1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game1.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +41,84 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\document\PycharmProject\lynproject\python_practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.try">
+    <configuration name="game1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lynproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practice/game1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game1_round2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lynproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practice/game1_round2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lynproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practice/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.game1_round2" />
+        <item itemvalue="Python.game1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -69,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596047480702</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="game1">
+      <created>1596048486941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596048486941</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +186,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="737" y="155" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1596047889716" />
+    <state width="817" height="294" key="GridCell.Tab.0.bottom" timestamp="1596070212419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="817" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596070212419" />
+    <state width="817" height="294" key="GridCell.Tab.0.center" timestamp="1596070212419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="817" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596070212419" />
+    <state width="817" height="294" key="GridCell.Tab.0.left" timestamp="1596070212418">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="817" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596070212418" />
+    <state width="817" height="294" key="GridCell.Tab.0.right" timestamp="1596070212419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="817" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596070212419" />
+    <state x="284" y="263" key="RollbackChangesDialog" timestamp="1596058433227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="284" y="263" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596058433227" />
+    <state x="80" y="156" width="998" height="708" key="SettingsEditor" timestamp="1596069275491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="80" y="156" width="998" height="708" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596069275491" />
     <state x="606" y="299" key="Vcs.Push.Dialog.v2" timestamp="1596047523094">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
